@@ -56,7 +56,7 @@ git config --global user.email "Tu correo"
 
 * [TypeScript importer](https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter)
 
-* [Markdown] (https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+* [Markdown](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
 ### Instalación de Angular y flujo de trabajo
 * [Angular/Cli](https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter)
@@ -64,17 +64,22 @@ git config --global user.email "Tu correo"
 ```
     npm install -g @angular/cli
     ng --version
-
 ```
 
 ### Typescript
-* [Editor online](https://stackblitz.com/edit/typescript-vxnz8z)
+* [Editor online] https://stackblitz.com/edit/typescript-vxnz8z)
 
 * [Proyecto base](https://att-c.udemycdn.com/2020-11-26_22-16-40-1c57137749af2bcf444a011b338f78ac/original.zip?response-content-disposition=attachment%3B+filename%3Dcurso-angular-intro-typescript-ecmascript.zip&Expires=1645294749&Signature=Q1PCdY8PoyFlPNwuvThoNPjSu780C-I7mRi3j0USdzihUFATWrWOBII29D-iB7kSSXP7oL8Z3sBKzceKxhMdOWRUGTsAD1EXiUh6~P3ww48JCvB1uPBmAw462biUs5Ke4pUUFeYVJNfh3H9xv~xBMnhvBV7EsLYizrISrcDkg2~IQJn6nZ-7mL~Xc9qaITwt~3jy01RXwp6-qmvBwbn-PSLcyJeD57oGIcmC111n5d1AqKxvHxmkoQMK9RRpQj2ni6oy4uKiZYXHdhP99BR0biy-4gxWFIIZEWljm6iHbR2do7Es1Yjn6CViJPd-ANcvCYgZORoOi50voZ5wWR18og__&Key-Pair-Id=APKAITJV77WS5ZT7262A)
 
-* [Instalar las dependencias] npm install
+* [Instalar las dependencias] 
+```
+npm install
+```
 
-* [Ejecutar tu proyecto de Typescript] npm start
+* [Ejecutar tu proyecto de Typescript] 
+```
+npm start
+```
 
 ### Angular
 
@@ -84,12 +89,8 @@ git config --global user.email "Tu correo"
     ng serve -o                     Para correr el proyecto en el navegador
 ```
 
-
-
-
 ### Utilerías
 * [Estilos](https://gist.github.com/Klerith/3ddee04a27c09be05e888d5d4ac1d09f)
-
 
 
 ### Errores comunes
@@ -98,7 +99,6 @@ git config --global user.email "Tu correo"
 https://registry.npmjs.org/
 ```
 Solución
-
 ```
 npm config set registry="http://registry.npmjs.org/"
 npm install source-map-resolve

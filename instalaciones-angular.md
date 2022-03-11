@@ -103,7 +103,7 @@ Solución
 npm config set registry="http://registry.npmjs.org/"
 npm install source-map-resolve
 ```
-*[Otro error al crear el proyecto]
+* [Otro error al crear el proyecto]
 ```
 npm WARN deprecated source-map-resolve@0.6.0: See https://github.com/lydell/source-map-resolve#deprecated
 npm ERR! Cannot read properties of null (reading 'pickAlgorithm')

@@ -90,7 +90,7 @@ npm start
 ```
 
 ### Utilerías
-* [Estilos](https://gist.github.com/Klerith/3ddee04a27c09be05e888d5d4ac1d09f)
+* [Estilos](https://github.com/ProfAaron/tools/blob/main/Estilos1.css)
 
 
 ### Errores comunes

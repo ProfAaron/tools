@@ -93,6 +93,21 @@ npm start
 * [Estilos](https://github.com/ProfAaron/tools/blob/main/Estilos1.css)
 
 
+### Instalación de Angular Material
+* [Angular Material](https://material.angular.io/guide/getting-started)
+
+```
+    ng add @angular/material
+```
+
+### Instalación de Angular Flex Layout
+* [Angular Flex Layout](https://www.npmjs.com/package/@angular/flex-layout)
+
+```
+    npm i @angular/flex-layout
+```
+
+
 ### Errores comunes
 * [Al crear el proyecto]
 ```

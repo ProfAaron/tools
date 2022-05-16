@@ -21,7 +21,7 @@ git config --global user.email "Tu correo"
 * Crea proyecto
 
 ```
-pnpm init -y
+npm init -y
 ```
 
 * [Dependencia de MySQL](https://www.npmjs.com/package/mysql#getting-the-id-of-an-inserted-row)

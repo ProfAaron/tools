@@ -30,5 +30,5 @@ npm i -D mysql
 ```
 * [Express](https://www.npmjs.com/package/express), [Nodemon](https://www.npmjs.com/package/nodemon) y [Body-parser](https://www.npmjs.com/package/body-parser)
 ```
-npom i -D express nodemon body-parser
+npm i -D express nodemon body-parser
 ```

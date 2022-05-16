@@ -1,5 +1,4 @@
-# Instalaciones recomendadas - Curso de Angular
-
+# Instalaciones Servidor - Curso Angular
 ## Instalaciones Necesarias
 
 * [Postman](https://www.postman.com/downloads/)
